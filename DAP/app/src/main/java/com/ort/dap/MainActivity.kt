@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
         label.text = ""
 
       btnShow.setOnClickListener {
-          label.text = "Hace menos calor"
+          label.text = "Hace mucho calor"
       }
     }
 }
